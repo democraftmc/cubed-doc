@@ -1,6 +1,6 @@
 ### Site metadata ###
 
-site_name: MkDocs Quickstart
+site_name: Democraft is at Cubed!
 site_description: Starter template for a MkDocs docs site on GH Pages - including CI
 site_url: https://michaelcurrin.github.io/mkdocs-quickstart/
 
@@ -12,8 +12,8 @@ edit_uri: edit/master/docs/docs
 theme:
   name: material
   language: fr
-  logo: img/Sans titre 133_20230821143328.png
-  favicon: img/Sans titre 133_20230821143328.ico
+  logo: img/logo.png
+  favicon: img/logo.ico
   palette: 
 
     # Palette toggle for light mode
