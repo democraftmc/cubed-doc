@@ -44,10 +44,10 @@ nav:
 extra:
   alternate:
     - name: Français
-      link: /fr/
+      link: fr/
       lang: fr
     - name: English
-      link: /en/
+      link: en/
       lang: en
       
   social:
@@ -60,7 +60,11 @@ extra:
     - icon: fontawesome/brands/instagram 
       link: https://instagram.com/democraftmc
       name: Instagram
+  
   generator: false
+
+plugins:
+  - social
 
 copyright: Copyright &copy; 2022 - 2023 DEMOCRAFT
 
