@@ -69,9 +69,10 @@ extra:
 
 plugins:
   - social:
-    enabled: true
-    cards: true
-    cards_dir: img/socials/
+      enabled: true
+      cards: true
+      cards_dir: img/socials/
+      
   - search:
       lang: 
         - en
