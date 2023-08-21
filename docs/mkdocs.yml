@@ -14,6 +14,10 @@ theme:
   language: fr
   logo: img/logo.png
   favicon: img/logo.ico
+   features:
+    - search.share
+    - search.suggest
+
   palette: 
 
     # Palette toggle for light mode
@@ -64,7 +68,14 @@ extra:
   generator: false
 
 plugins:
-  - social
+  - social:
+    enabled: true
+    cards: true
+    cards_dir: img/socials/
+  - search:
+      lang: 
+        - en
+        - fr
 
 copyright: Copyright &copy; 2022 - 2023 DEMOCRAFT
 
