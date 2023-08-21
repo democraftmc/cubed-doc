@@ -12,6 +12,8 @@ edit_uri: edit/master/docs/docs
 theme:
   name: material
   language: fr
+  logo: img/Sans titre 133_20230821143328.png
+  favicon: img/Sans titre 133_20230821143328.ico
   palette: 
 
     # Palette toggle for light mode
@@ -29,11 +31,17 @@ theme:
         name: Switch to light mode
 nav:
   - Home: index.md
-  - About MkDocs: about-mkdocs.md
-  - Tutorial:
-      - TL;DR: tutorial/tldr.md
-      - Installation: tutorial/installation.md
-      - Set up project: tutorial/setup-project.md
-      - Advanced: tutorial/advanced.md
-      - Usage: tutorial/usage.md
-      - Deploy: tutorial/deploy.md
+  # - About MkDocs: about-mkdocs.md
+  # - Tutorial:
+      # - TL;DR: tutorial/tldr.md
+      # - Installation: tutorial/installation.md
+      # - Set up project: tutorial/setup-project.md
+      # - Advanced: tutorial/advanced.md
+      # - Usage: tutorial/usage.md
+      # - Deploy: tutorial/deploy.md
+
+extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
