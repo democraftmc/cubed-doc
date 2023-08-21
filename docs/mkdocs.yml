@@ -30,7 +30,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 nav:
-  - Acceuil: index.md
+  - Acceuil: fr/index.md
   - Home: en/index.md
   # - About MkDocs: about-mkdocs.md
   # - Tutorial:
@@ -43,6 +43,9 @@ nav:
 
 extra:
   alternate:
+    - name: Français
+      link: /fr/
+      lang: fr
     - name: English
       link: /en/
       lang: en
