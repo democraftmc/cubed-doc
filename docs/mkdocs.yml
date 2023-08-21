@@ -14,7 +14,7 @@ theme:
   language: fr
   logo: img/logo.png
   favicon: img/logo.ico
-   features:
+  features:
     - search.share
     - search.suggest
 
