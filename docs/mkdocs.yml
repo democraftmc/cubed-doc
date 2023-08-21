@@ -2,7 +2,7 @@
 
 site_name: Democraft is at Cubed!
 site_description: Starter template for a MkDocs docs site on GH Pages - including CI
-site_url: https://michaelcurrin.github.io/mkdocs-quickstart/
+site_url: https://cubed.democraft.fr/
 
 repo_url: https://github.com/democraftmc/cubed-doc
 edit_uri: edit/master/docs/docs
