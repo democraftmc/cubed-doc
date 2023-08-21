@@ -31,7 +31,7 @@ theme:
         name: Switch to light mode
 nav:
   - Acceuil: index.md
-  - Home: /en/index.md
+  - Home: en/index.md
   # - About MkDocs: about-mkdocs.md
   # - Tutorial:
       # - TL;DR: tutorial/tldr.md
@@ -46,6 +46,3 @@ extra:
     - name: English
       link: /en/
       lang: en
-
-not_in_nav: |
-  /en/index.md
