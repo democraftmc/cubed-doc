@@ -49,3 +49,19 @@ extra:
     - name: English
       link: /en/
       lang: en
+      
+  social:
+    - icon: fontawesome/solid/globe 
+      link: https://democraft.fr
+      name: Site Web
+    - icon: fontawesome/brands/discord 
+      link: https://dsc.gg/democraft
+      name: Discord
+    - icon: fontawesome/brands/instagram 
+      link: https://instagram.com/democraftmc
+      name: Instagram
+  generator: false
+
+copyright: Copyright &copy; 2022 - 2023 DEMOCRAFT
+
+      
