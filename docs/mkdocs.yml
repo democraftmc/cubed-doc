@@ -13,8 +13,7 @@ theme:
   name: material
   language: fr
   palette: 
-    primary: red
-    
+
     # Palette toggle for light mode
     - scheme: default
       toggle:
@@ -26,7 +25,6 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-
 nav:
   - Home: index.md
   - About MkDocs: about-mkdocs.md
