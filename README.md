@@ -1,2 +1,2 @@
 # DEMOCRAFT doc website for the CubedCon
-> Description comming soon
+> 🔴 Live @ https://cubed.democraft.fr
