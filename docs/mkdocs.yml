@@ -34,11 +34,12 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 nav:
-  - Acceuil: fr/index.md
-  - Home: en/index.md
+  - 🏠 Home: index.md
   # - About MkDocs: about-mkdocs.md
-  # - Tutorial:
-      # - TL;DR: tutorial/tldr.md
+  - 🇬🇧 English:
+      - About: en/index.md
+  - 🇨🇵 Français:
+      - À Propos: fr/index.md
       # - Installation: tutorial/installation.md
       # - Set up project: tutorial/setup-project.md
       # - Advanced: tutorial/advanced.md
