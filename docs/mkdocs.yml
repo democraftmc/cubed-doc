@@ -19,6 +19,9 @@ theme:
   features:
     - search.share
     - search.suggest
+    - navigation.tabs
+    - navigation.instant
+    - content.action.edit
 
   palette: 
 
@@ -74,8 +77,7 @@ extra:
       link: https://www.youtube.com/@democraftmc
       name: Youtube
 
-  features:
-    - content.action.edit
+
   
   generator: false
 
