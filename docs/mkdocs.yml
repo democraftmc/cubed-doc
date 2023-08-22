@@ -67,6 +67,10 @@ extra:
   
   generator: false
 
+markdown_extensions:
+    - toc:
+        permalink: 
+
 plugins:
   - social:
       enabled: true
