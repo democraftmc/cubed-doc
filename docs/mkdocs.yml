@@ -5,7 +5,7 @@ site_description: Informations About DEMOCRAFT for the players, visitors and adm
 site_url: https://cubed.democraft.fr/
 
 repo_url: https://github.com/democraftmc/cubed-doc
-edit_uri: edit/master/docs/docs
+edit_uri: edit/main/docs/docs
 
 ### Build settings ###
 
@@ -14,6 +14,8 @@ theme:
   language: fr
   logo: img/logo-modified.png
   favicon: img/logo-modified.png
+  icon:
+    repo: fontawesome/brands/github-alt
   features:
     - search.share
     - search.suggest
@@ -71,7 +73,9 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@democraftmc
       name: Youtube
-  
+
+  features:
+    - content.action.edit
   
   generator: false
 
@@ -83,6 +87,9 @@ markdown_extensions:
       permalink: ‎ 
 
 plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+      
   - social:
       enabled: true
       cards: true
