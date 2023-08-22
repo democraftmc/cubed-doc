@@ -65,6 +65,13 @@ extra:
     - icon: fontawesome/brands/instagram 
       link: https://instagram.com/democraftmc
       name: Instagram
+    - icon: fontawesome/brands/tiktok 
+      link: https://www.tiktok.com/@democraftmc
+      name: TikTok
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@democraftmc
+      name: Youtube
+  
   
   generator: false
 
