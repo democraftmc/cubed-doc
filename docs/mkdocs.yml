@@ -1,7 +1,7 @@
 ### Site metadata ###
 
 site_name: Democraft is at Cubed!
-site_description: Starter template for a MkDocs docs site on GH Pages - including CI
+site_description: Informations About DEMOCRAFT for the players, visitors and admins of the Cubed Con
 site_url: https://cubed.democraft.fr/
 
 repo_url: https://github.com/democraftmc/cubed-doc
@@ -87,6 +87,7 @@ plugins:
       enabled: true
       cards: true
       cards_dir: img/socials/
+      cards_layout: default/variant
       
   - search:
       lang: 
