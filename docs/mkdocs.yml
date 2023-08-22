@@ -87,7 +87,7 @@ plugins:
       enabled: true
       cards: true
       cards_dir: img/socials/
-      cards_layout: default/variant
+      #cards_layout: default/variant
       
   - search:
       lang: 
