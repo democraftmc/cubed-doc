@@ -1,26 +1,8 @@
-# MkDocs Quickstart
->  Started template for a MkDocs docs site on GH Pages - including CI 
+# Democraft is at the CubedCon!
+>  [English Intro](#english) - [Intro Française](#français)
 
-[![Repo stars](https://img.shields.io/github/stars/MichaelCurrin/mkdocs-quickstart?style=social)](https://github.com/MichaelCurrin/mkdocs-quickstart)
+# English
+Hi 👋 We hope you have a good time at cubded, and as you see this website, you have certenly meet us!
 
-Use the MkDocs (_make docs_) tool to create build a docs site around markdown docs.
-
-Follow the tutorial to add an existing project or create a project from scratch. The result will look like this project.
-
-
-## Features
-> How to use this project
-
-- **Follow the tutorial instructions**
-    - Install and configure a new or existing project.
-    - Run it locally.
-    - Deploy it.
-- **Add a copy of this project to your repos**
-    - [![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?logo=github)](https://github.com/MichaelCurrin/mkdocs-quickstart/generate)
-- **View the live demo**
-    - This site is hosted on GitHub Pages. See if you like it. Other themes are available - see the tutorial.
-
-
-The aim here is not be complete or explain all concepts. It is to provide a reference for common steps and choices needed when setting up a docs site, but still at a beginner-friendly level.
-
-This guide is based on the [mkdocs.org](https://www.mkdocs.org/) tutorial.
+# Français
+Hey 👋 Nous espérons que vous passez un bon moment à la CubedCon, et si vous lisez ce message, que que vous nous avez sûrement rencontré ! Sur ce site, vous trouverez plein d'informations à propos de notre serveur et des différent événements auquel DEMOCRAFR participé à la CubedCon ! Pour commencer, cliquer sur le bouton **langue** :fontawesome-solid-language: et choisissez la langue **Français**
