@@ -1,5 +1,5 @@
 # Democraft is at the CubedCon!
->  [🇬🇧 English Intro](#english) - [🇨🇵 Intro Française](#francais)
+>  [:flag_us: English Intro](#english) - [:flag_fr: Intro Française](#francais)
 
 
 # English
