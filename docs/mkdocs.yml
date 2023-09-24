@@ -25,7 +25,7 @@ theme:
       question: fontawesome/solid/circle-question
       warning: fontawesome/solid/triangle-exclamation
       failure: fontawesome/solid/bomb
-      danger: fontawesome/solid/skull
+      danger: fontawesome/solid/circle-exclamation
       bug: fontawesome/solid/robot
       example: fontawesome/solid/flask
       quote: fontawesome/solid/quote-left
@@ -54,9 +54,9 @@ theme:
 nav:
   - 🏠 Home: index.md
   # - About MkDocs: about-mkdocs.md
-  - 🇨🇵 Français:
+  - 🥐 Français:
       - À Propos: fr/index.md
-  - 🇬🇧 English:
+  - 🍵 English:
       - About: en/index.md
       # - Installation: tutorial/installation.md
       # - Set up project: tutorial/setup-project.md
