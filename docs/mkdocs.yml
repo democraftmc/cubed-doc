@@ -54,10 +54,10 @@ theme:
 nav:
   - 🏠 Home: index.md
   # - About MkDocs: about-mkdocs.md
-  - 🇬🇧 English:
-      - About: en/index.md
   - 🇨🇵 Français:
       - À Propos: fr/index.md
+  - 🇬🇧 English:
+      - About: en/index.md
       # - Installation: tutorial/installation.md
       # - Set up project: tutorial/setup-project.md
       # - Advanced: tutorial/advanced.md
