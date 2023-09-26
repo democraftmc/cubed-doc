@@ -19,7 +19,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 # Our games
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+-   ![Image title](https://cubed.democraft.fr/img/bedwars.png)
 
     ---
 
@@ -28,7 +28,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     [:octicons-arrow-right-24: Getting started](#)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+-   ![Image title](https://cubed.democraft.fr/img/skywars.png)
 
     ---
 
