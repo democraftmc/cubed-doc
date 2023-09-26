@@ -61,7 +61,7 @@ nav:
       - Games:
           - BedWars: en/bedwars.md
           - SkyWars: en/skywars.md
-          - Murder Mistery: en/muder.md
+          - Murder Mistery: en/murder.md
       # - Installation: tutorial/installation.md
       # - Set up project: tutorial/setup-project.md
       # - Advanced: tutorial/advanced.md
