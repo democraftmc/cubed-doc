@@ -58,6 +58,10 @@ nav:
       - À Propos: fr/index.md
   - 🍵 English:
       - About: en/index.md
+      - Games:
+          - BedWars: en/bedwars.md
+          - SkyWars: en/skywars.md
+          - Murder Mistery: en/muder.md
       # - Installation: tutorial/installation.md
       # - Set up project: tutorial/setup-project.md
       # - Advanced: tutorial/advanced.md
