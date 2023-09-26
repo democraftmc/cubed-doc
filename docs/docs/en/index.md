@@ -12,4 +12,6 @@ Hi! First, I'm glad that you take up some time to look about our server. On this
     This server is mainly a french server.
     Even if we work on translation and really encourage foreing people to join our comunity, the translation system is not working on every game and is not aviable, at this time, on gui.
 
-# 
+# About Us
+DEMOCRAFT is a minigames crossplay server, which was originally open to crack players (which is dangerous to do now with the new EULA), which ame to be unique & accesible
+We use a custom resource pack, again on bedrock and java, to 
