@@ -112,6 +112,7 @@ markdown_extensions:
       permalink: ‎ 
 
 plugins:
+  - typeset
   - git-revision-date-localized:
       enable_creation_date: false
       
