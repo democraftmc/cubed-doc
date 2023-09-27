@@ -19,7 +19,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 # Our games
 <div class="grid cards" markdown>
 
--   ![Image title](..img/bedwars.png)
+-   ![Image title](../img/bedwars.png)
 
     ---
 
@@ -28,7 +28,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     [:octicons-arrow-right-24: Getting started](#)
 
--   ![Image title](..img/skywars.png)
+-   ![Image title](../img/skywars.png)
 
     ---
 
@@ -36,7 +36,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     [:octicons-arrow-right-24: Reference](#)
 
--   ![Image title](..img/kitpvp.png)
+-   ![Image title](../img/kitpvp.png)
 
     ---
 
@@ -44,7 +44,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     [:octicons-arrow-right-24: Customization](#)
 
--   ![Image title](..img/uhc.png)
+-   ![Image title](../img/uhc.png)
 
     ---
 
@@ -60,7 +60,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     [:octicons-arrow-right-24: Customization](#)
 
--   ![Image title](..img/murder.png)
+-   ![Image title](../img/murder.png)
 
     ---
 
