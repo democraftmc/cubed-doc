@@ -12,6 +12,10 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    transition: transform 0.15s ease-out;
+}
+.md-typeset .grid.cards>ul>li>p>img:is(:hover, :active, :focus) {
+    transform: scale(1.05);
 }
 .md-typeset .grid.cards>ol>li,.md-typeset .grid.cards>ul>li,.md-typeset .grid>.card{
     border:.05rem solid var(--md-default-fg-color--lightest);
