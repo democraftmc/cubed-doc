@@ -19,7 +19,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 # Our games
 <div class="grid cards" markdown>
 
--   ![Image title](https://raw.githubusercontent.com/democraftmc/cubed-doc/main/docs/img/bedwars.png)
+-   ![Image title](..img/bedwars.png)
 
     ---
 
@@ -28,7 +28,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     [:octicons-arrow-right-24: Getting started](#)
 
--   ![Image title](https://raw.githubusercontent.com/democraftmc/cubed-doc/main/docs/img/skywars.png)
+-   ![Image title](..img/skywars.png)
 
     ---
 
@@ -36,7 +36,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     [:octicons-arrow-right-24: Reference](#)
 
--   :material-format-font:{ .lg .middle } __Made to measure__
+-   ![Image title](..img/kitpvp.png)
 
     ---
 
@@ -44,7 +44,23 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     [:octicons-arrow-right-24: Customization](#)
 
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+-   ![Image title](..img/uhc.png)
+
+    ---
+
+    Material for MkDocs is licensed under MIT and available on [GitHub]
+
+    [:octicons-arrow-right-24: License](#)
+
+-   ![Image title](..img/survie.png)
+
+    ---
+
+    Change the colors, fonts, language, icons, logo and more with a few lines
+
+    [:octicons-arrow-right-24: Customization](#)
+
+-   ![Image title](..img/murder.png)
 
     ---
 
