@@ -25,7 +25,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     The most clasic and original minigame in Minecraft
 
-    [:octicons-arrow-right-24: Learn More](/bedwars)
+    [:octicons-arrow-right-24: Learn More](en//bedwars)
 
 -   ![Image title](../img/skywars.png)
 
@@ -33,7 +33,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     An other clasic minigame well known for they tryharders.
 
-    [:octicons-arrow-right-24: Learn More](/skywars)
+    [:octicons-arrow-right-24: Learn More](en//skywars)
 
 -   ![Image title](../img/kitpvp.png)
 
@@ -57,7 +57,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     A killer. A detective. And 8 poor players which have to run.
 
-    [:octicons-arrow-right-24: Customization](/murder)
+    [:octicons-arrow-right-24: Customization](/en/murder)
 
 -   ![Image title](../img/murder.png)
 
@@ -65,7 +65,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     A killer. A detective. And 8 poor players which have to run.
 
-    [:octicons-arrow-right-24: Customization](/murder)
+    [:octicons-arrow-right-24: Customization](/en/murder)
 
 </div>
 
