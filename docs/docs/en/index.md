@@ -23,18 +23,17 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     ---
 
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
+    The most clasic and original minigame in Minecraft
 
-    [:octicons-arrow-right-24: Getting started](#)
+    [:octicons-arrow-right-24: Learn More](/bedwars)
 
 -   ![Image title](../img/skywars.png)
 
     ---
 
-    Focus on your content and generate a responsive and searchable static site
+    An other clasic minigame well known for they tryharders.
 
-    [:octicons-arrow-right-24: Reference](#)
+    [:octicons-arrow-right-24: Learn More](/skywars)
 
 -   ![Image title](../img/kitpvp.png)
 
@@ -56,18 +55,39 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     ---
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    A killer. A detective. And 8 poor players which have to run.
 
-    [:octicons-arrow-right-24: Customization](#)
+    [:octicons-arrow-right-24: Customization](/murder)
 
 -   ![Image title](../img/murder.png)
 
     ---
 
-    Material for MkDocs is licensed under MIT and available on [GitHub]
+    A killer. A detective. And 8 poor players which have to run.
 
-    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: Customization](/murder)
 
 </div>
 
 # What's in DEMOCRAFT
+<div class="grid cards funct" markdown>
+
+-   ![Image title](../img/bedwars.png)
+
+    ---
+
+    DEMOPHONE
+
+    [:octicons-arrow-right-24: Learn More](/bedwars)
+
+-   ![Image title](../img/skywars.png)
+
+    ---
+
+    IDK
+
+    [:octicons-arrow-right-24: Learn More](/skywars)
+
+
+
+</div>
