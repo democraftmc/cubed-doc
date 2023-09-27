@@ -7,6 +7,12 @@
 .md-typeset .grid.cards>ol,.md-typeset .grid.cards>ul{
     display:contents
 }
+.md-typeset .grid.cards>ul>li>p>img{
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 .md-typeset .grid.cards>ol>li,.md-typeset .grid.cards>ul>li,.md-typeset .grid>.card{
     border:.05rem solid var(--md-default-fg-color--lightest);
     border-radius:.1rem;
