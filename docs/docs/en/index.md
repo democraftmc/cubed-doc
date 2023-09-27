@@ -17,7 +17,7 @@ DEMOCRAFT is a minigames crossplay server, which was originally open to crack pl
 We use a custom resource pack, again on bedrock and java, to improve the player's experience and maker the server even more fun!
 
 # Our games
-<div class="grid cards" markdown>
+<div class="grid cards game" markdown>
 
 -   ![Image title](../img/bedwars.png)
 
