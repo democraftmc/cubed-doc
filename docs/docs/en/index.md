@@ -52,7 +52,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     [:octicons-arrow-right-24: License](#)
 
--   ![Image title](..img/survie.png)
+-   ![Image title](../img/survie.png)
 
     ---
 
