@@ -39,25 +39,25 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     ---
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    Fighting Games. With weapons.
 
-    [:octicons-arrow-right-24: Customization](#)
+    [:octicons-arrow-right-24: Learn More](#)
 
 -   ![Image title](../img/uhc.png)
 
     ---
 
-    Material for MkDocs is licensed under MIT and available on [GitHub]
+    The ancestor of Fortnite, but in better
 
-    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: Learn More](/en/uhc)
 
 -   ![Image title](../img/survie.png)
 
     ---
 
-    A killer. A detective. And 8 poor players which have to run.
+    It's like playing alone but with peoples. Offen called SMP.
 
-    [:octicons-arrow-right-24: Customization](/en/murder)
+    [:octicons-arrow-right-24: Learn More](/en/smp)
 
 -   ![Image title](../img/murder.png)
 
@@ -65,7 +65,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     A killer. A detective. And 8 poor players which have to run.
 
-    [:octicons-arrow-right-24: Customization](/en/murder)
+    [:octicons-arrow-right-24: Learn More](/en/murder)
 
 </div>
 

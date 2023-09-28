@@ -19,7 +19,7 @@ DEMOCRAFT est un serveur Mini-Jeux croosplay (donc java et bedrock), qui n'accep
 
     Un clasique indémodable de Minecraft, revisité à notre sauce (fin presque)
 
-    [:octicons-arrow-right-24: Learn More](/en/bedwars)
+    [:octicons-arrow-right-24: En Savoir Plus](/fr/bedwars)
 
 -   ![Image title](../img/skywars.png)
 
@@ -27,7 +27,7 @@ DEMOCRAFT est un serveur Mini-Jeux croosplay (donc java et bedrock), qui n'accep
 
     Un autre mode de jeu plutôt connu pour ses Tryharders.
 
-    [:octicons-arrow-right-24: Learn More](/en/skywars)
+    [:octicons-arrow-right-24: En Savoir Plus](/fr/skywars)
 
 -   ![Image title](../img/kitpvp.png)
 
@@ -35,7 +35,7 @@ DEMOCRAFT est un serveur Mini-Jeux croosplay (donc java et bedrock), qui n'accep
 
     Différents types de duels. Avec des armes.
     
-    [:octicons-arrow-right-24: Customization](#)
+    [:octicons-arrow-right-24: En Savoir Plus](/fr/kitpvp)
 
 -   ![Image title](../img/uhc.png)
 
@@ -43,7 +43,7 @@ DEMOCRAFT est un serveur Mini-Jeux croosplay (donc java et bedrock), qui n'accep
 
     L'ancêtre de Fortnite, mais en mieux
 
-    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: En Savoir Plus](/fr/uhc)
 
 -   ![Image title](../img/survie.png)
 
@@ -51,7 +51,7 @@ DEMOCRAFT est un serveur Mini-Jeux croosplay (donc java et bedrock), qui n'accep
 
     Comme jouer tout seul mais avec des gens. Aussi appelé SMP.
 
-    [:octicons-arrow-right-24: Customization](/en/murder)
+    [:octicons-arrow-right-24: En Savoir Plus](/fr/smp)
 
 -   ![Image title](../img/murder.png)
 
@@ -59,7 +59,7 @@ DEMOCRAFT est un serveur Mini-Jeux croosplay (donc java et bedrock), qui n'accep
 
     Un assasin. Un detective. Et puis les autres ils doivent courrir.
 
-    [:octicons-arrow-right-24: Customization](/en/murder)
+    [:octicons-arrow-right-24: En Savoir Plus](/fr/murder)
 
 </div>
 
