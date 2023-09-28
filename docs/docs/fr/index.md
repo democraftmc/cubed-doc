@@ -17,7 +17,7 @@ DEMOCRAFT est un serveur Mini-Jeux croosplay (donc java et bedrock), qui n'accep
 
     ---
 
-    Un clasique indémodable de Minecraft
+    Un clasique indémodable de Minecraft, revisité à notre sauce (fin presque)
 
     [:octicons-arrow-right-24: Learn More](/en/bedwars)
 
