@@ -1,16 +1,87 @@
-# À Propos de nous
-Comme on m'a signalé une faute j'ai corrigé le titre. Mais maintenant il faudrais me dire quoi écrire ici. Ou le faire vous même. Mais faut vous créé un compte GitHub les cocos.
+# Bienvenu sur DEMOCRAFT !
+He ! Tout d'abord, je suis hereux que vous preniez un peux de votre temps pour en savoir plus sur notre serveur. Vous trouverez ici toutes les informations utiles sur nos jeux et les fonctionalités inédites de notre serveur ! Et bonne visite !
 
-!!! example "Informations"
+!!! example "Nous sommes en développement!"
 
-    **Le serveur est toujours en développement !**
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    **DEMOCRAFT est toujours en développement !**
+    Certaines fonctionalités ou certains jeux ne sont pas encore disponible au public ou instable ;
+    Si vous voulez nous aider, n'hésiter pas à veenir jouer sur notre serveur et à nous signaler tout bug ou à nous proposer des idées sur notre [Discord](https://dsc.gg/democraft) !
+ 
+# A propos de nous
+DEMOCRAFT est un serveur Mini-Jeux croosplay (donc java et bedrock), qui n'accepte plus les cracks depuis la derrnière mise à jour de l'EULA (malheuresement). Nous essayons de contruire un serveur simple et agréable à jouer, avec par example l'aide un ressource pack customisé (ici aussi sur java et bedrock) et avec même un launcher custom (ici java uniquement)
 
-!!! danger "Attention"
+# Nos Jeux
+<div class="grid cards game" markdown>
 
-    Notre serveur a subit des problèmes dans notre dernier data center, c'est pourquoi nous avons décidé de passer à notre propre infrastructure.
-    Cepandant, la migration du serveur et l'instalation du serveur nous prend un certain temps, et notre infrastructure n'est pas encore disponible.
-    Le serveur est en ligne grace à **l'immense générosité de Vaati** mais certains modes de jeux ou fonctionalitées sont temporairement indisponibles
+-   ![Image title](../img/bedwars.png)
 
-# Nos modes de Jeux
+    ---
+
+    Un clasique indémodable de Minecraft
+
+    [:octicons-arrow-right-24: Learn More](/en/bedwars)
+
+-   ![Image title](../img/skywars.png)
+
+    ---
+
+    Un autre mode de jeu plutôt connu pour ses Tryharders.
+
+    [:octicons-arrow-right-24: Learn More](/en/skywars)
+
+-   ![Image title](../img/kitpvp.png)
+
+    ---
+
+    Différents types de duels. Avec des armes.
+    
+    [:octicons-arrow-right-24: Customization](#)
+
+-   ![Image title](../img/uhc.png)
+
+    ---
+
+    L'ancêtre de Fortnite, mais en mieux
+
+    [:octicons-arrow-right-24: License](#)
+
+-   ![Image title](../img/survie.png)
+
+    ---
+
+    Comme jouer tout seul mais avec des gens. Aussi appelé SMP.
+
+    [:octicons-arrow-right-24: Customization](/en/murder)
+
+-   ![Image title](../img/murder.png)
+
+    ---
+
+    Un assasin. Un detective. Et puis les autres ils doivent courrir.
+
+    [:octicons-arrow-right-24: Customization](/en/murder)
+
+</div>
+
+# What's in DEMOCRAFT
+<div class="grid cards funct" markdown>
+
+-   ![Image title](../img/bedwars.png)
+
+    ---
+
+    DEMOPHONE
+
+    [:octicons-arrow-right-24: Learn More](/bedwars)
+
+-   ![Image title](../img/skywars.png)
+
+    ---
+
+    IDK
+
+    [:octicons-arrow-right-24: Learn More](/skywars)
+
+
+
+</div>
