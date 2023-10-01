@@ -35,6 +35,9 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     [:octicons-arrow-right-24: THE DEMOPHONE](/skywars)
 
+</div>
+
+
 # Our games
 <div class="grid cards game" markdown>
 
@@ -85,11 +88,5 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
     A killer. A detective. And 8 poor players which have to run.
 
     [:octicons-arrow-right-24: Learn More](/en/murder)
-
-</div>
-
-
-
-
 
 </div>
