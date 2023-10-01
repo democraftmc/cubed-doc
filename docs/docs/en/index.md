@@ -16,6 +16,25 @@ Hi! First, I'm glad that you take up some time to look about our server. On this
 DEMOCRAFT is a minigames crossplay server, which was originally open to crack players (which is dangerous to do now with the new EULA), which ame to be unique & accesible
 We use a custom resource pack, again on bedrock and java, to improve the player's experience and maker the server even more fun!
 
+# Start you adventure
+<div class="grid cards funct" markdown>
+
+-   ![Image title](../img/game-icon.png)
+
+    ---
+
+    How to Join the server
+
+    [:octicons-arrow-right-24: Guide](/bedwars)
+
+-   ![Image title](../img/phone-icon.png)
+
+    ---
+
+    The best tool. And the only one.
+
+    [:octicons-arrow-right-24: THE DEMOPHONE](/skywars)
+
 # Our games
 <div class="grid cards game" markdown>
 
@@ -69,24 +88,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
 </div>
 
-# What's in DEMOCRAFT
-<div class="grid cards funct" markdown>
 
--   ![Image title](../img/bedwars.png)
-
-    ---
-
-    DEMOPHONE
-
-    [:octicons-arrow-right-24: Learn More](/bedwars)
-
--   ![Image title](../img/skywars.png)
-
-    ---
-
-    IDK
-
-    [:octicons-arrow-right-24: Learn More](/skywars)
 
 
 
