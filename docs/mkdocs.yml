@@ -61,6 +61,9 @@ nav:
       - Games:
           - BedWars: en/bedwars.md
           - SkyWars: en/skywars.md
+          - KitPVP: en/kitpvp.md
+          - UHC: en/uhc.md
+          - Survival: en/smp.md
           - Murder Mistery: en/murder.md
       # - Installation: tutorial/installation.md
       # - Set up project: tutorial/setup-project.md
