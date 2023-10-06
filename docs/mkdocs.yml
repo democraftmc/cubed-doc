@@ -58,6 +58,8 @@ nav:
       - À Propos: fr/index.md
   - 🍵 English:
       - About: en/index.md
+      - Connexion: en/connexion.md
+      - DEMOPHONE: en/phone.md
       - Games:
           - BedWars: en/bedwars.md
           - SkyWars: en/skywars.md
