@@ -25,7 +25,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     How to Join the server
 
-    [:octicons-arrow-right-24: Guide](/bedwars)
+    [:octicons-arrow-right-24: Guide](/en/connexion)
 
 -   ![Image title](../img/phone-icon.png)
 
@@ -33,7 +33,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     The best tool. And the only one.
 
-    [:octicons-arrow-right-24: THE DEMOPHONE](/skywars)
+    [:octicons-arrow-right-24: THE DEMOPHONE](/en/phone)
 
 </div>
 
@@ -47,7 +47,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     The most clasic and original minigame in Minecraft
 
-    [:octicons-arrow-right-24: Learn More](en//bedwars)
+    [:octicons-arrow-right-24: Learn More](/en/bedwars)
 
 -   ![Image title](../img/skywars.png)
 
@@ -55,7 +55,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     An other clasic minigame well known for they tryharders.
 
-    [:octicons-arrow-right-24: Learn More](en//skywars)
+    [:octicons-arrow-right-24: Learn More](/en/skywars)
 
 -   ![Image title](../img/kitpvp.png)
 
