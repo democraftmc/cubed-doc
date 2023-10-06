@@ -63,7 +63,7 @@ We use a custom resource pack, again on bedrock and java, to improve the player'
 
     Fighting Games. With weapons.
 
-    [:octicons-arrow-right-24: Learn More](#)
+    [:octicons-arrow-right-24: Learn More](/en/kitpvp)
 
 -   ![Image title](../img/uhc.png)
 
