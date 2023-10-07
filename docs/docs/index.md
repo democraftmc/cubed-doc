@@ -5,6 +5,20 @@
 # English
 Hi 👋 We hope you have a good time at cubded, and as you see this website, you have certenly meet us! On this website, you will found information about our server and the events that we host at the CubedCon! To start, simple click on the **language** :fontawesome-solid-language: button and chose **English**
 
+Dive into the boundless universe of Minecraft at Cubed! 2023, an exciting virtual convention taking place from October 6th to 8th, 2023, on our dedicated Minecraft server. This immersive experience invites you to explore a world of blocks, creativity, and community, where everyone is welcome to participate.
+
+Explore our extensive virtual expo by visiting stands hosted by passionate creators and organizations. Attend panels led by special members of the Minecraft community, where they share their insights, answer your questions, and delve into captivating topics. You'll also have the chance to engage in games and other thrilling activities.
+
+To join our event, simply claim your free ticket at cubedcon.com/tickets. Once you have your ticket, your username will be added to the server whitelist, allowing you to dive into the action right from the event's opening.
+
+If you're looking for an exclusive experience, discover our VIP, VIP+, and VIP Ultra tickets, offering unique perks during the event. For more information on our VIP offerings, visit cubedcon.com/tickets. Please note that VIP tickets are valid only for the event they are purchased for.
+
+For creators and organizations eager to stand out, booths are available. These virtual spaces enable you to showcase your work and interact with visitors. To apply for a booth, head to cubedcon.com/booths. If your application is accepted, you'll have the opportunity to build your customized booth on our private server.
+
+Don't miss our livestream, broadcasted on our Twitch channel, where you can watch panels live, explore stands, participate in games, and stay updated on everything happening during the event.
+
+Join us on our server at play.cubedcon.com and get ready for an unforgettable Minecraft experience, where imagination knows no bounds, and the community gathers to celebrate Minecraft's creative spirit!
+
 
 # Français
 Hey 👋 Nous espérons que vous passez un bon moment à la CubedCon, et si vous lisez ce message, que que vous nous avez sûrement rencontré ! Sur ce site, vous trouverez plein d'informations à propos de notre serveur et des différent événements auquel DEMOCRAFT participe à la CubedCon ! Pour commencer, cliquer sur le bouton **langue** :fontawesome-solid-language: et choisissez la langue **Français**
