@@ -1,5 +1,5 @@
 # Bienvenu sur DEMOCRAFT !
-He ! Tout d'abord, je suis hereux que vous preniez un peux de votre temps pour en savoir plus sur notre serveur. Vous trouverez ici toutes les informations utiles sur nos jeux et les fonctionalités inédites de notre serveur ! Et bonne visite !
+Hey ! Tout d'abord, je suis hereux que vous preniez un peux de votre temps pour en savoir plus sur notre serveur. Vous trouverez ici toutes les informations utiles sur nos jeux et les fonctionalités inédites de notre serveur ! Et bonne visite !
 
 !!! example "Nous sommes en développement!"
 
