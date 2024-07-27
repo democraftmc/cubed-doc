@@ -1,11 +1,11 @@
 # Table of contents
 
-* [🏠 Welcome!](README.md)
+* [🏠 Bienvenue !](README.md)
 
-## ℹ️ About Us
+## ℹ️ À propos de nous
 
-* [📦 Our Concept](about-us/concept.md)
-* [🎮 Our Minigames](about-us/games.md)
-* [🧭 Our Open-Worlds](about-us/worlds.md)
-* [🧡 Our Values](about-us/values)
+* [📦 Notre Concept](about-us/concept.md)
+* [🎮 Nos Modes de Jeux](about-us/games.md)
+* [🧭 Les "Planètes"](about-us/worlds.md)
+* [🧡 Nos Valeurs](about-us/values)
 ## 📚 Ressources

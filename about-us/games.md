@@ -1,1 +1,1 @@
-# 🎮 Our Minigames
+# 🎮 Nos Modes de Jeux
