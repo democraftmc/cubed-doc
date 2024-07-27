@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about-us/concept.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "about-us/concept.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "about-us/concept.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "about-us/concept.md"
+            "file": "README.md"
           }
         }
       }
@@ -146,10 +146,13 @@
   },
   "active": "09ad6af519c8bf50",
   "lastOpenFiles": [
+    "about-us/games.md",
+    "about-us/worlds.md",
+    "about-us/values.md",
     "SUMMARY.md",
-    "().md",
-    "about-us/concept.md",
     "README.md",
+    "about-us/concept.md",
+    "().md",
     "about-us",
     "/SUMMARY.md",
     "/README.md",
@@ -185,7 +188,6 @@
     "docs/docs/en/kitpvp.md",
     "docs/docs/en/index.md",
     "docs/docs/en/connexion.md",
-    "docs/docs/en/bedwars.md",
     "docs/docs/CNAME",
     "docs/Makefile",
     "docs/CNAME",
