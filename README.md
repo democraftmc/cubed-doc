@@ -1,11 +1,12 @@
-# 🏠 Welcome !
+# 🏠 Bienvenue !
 
-Hi @everyone ! We are **DEMOCRAFT**, a minecraft server which allow both java and bedrock players to play mini games together - whith the magic of a ressource pack
+Hey @everyone ! Nous sommes **DEMOCRAFT**, un serveur minecraft français qui permet au joueurs de toutes les éditions du jeu à jouer ensemble - ajouté à la magie du ressource pack
 
-{% hint style="danger" %}
-**DEMOCRAFT IS A FRENCH MINECRAFT SERVER**
+{% hint info" %}
+**DEMOCRAFT EST UN SERVEUR FRANÇAIS**
 
-This means that the majority of the server is translated in french. You can still play from the US without a gigantic ping, but prepare Google translate and bringue your baguette 🥖
+Cela veux dire que le serveur est globalement traduit en français et est hébergé en Europe (avec un ping potable pour nos amis canadiens). 
+Si vous voulez directement jouer, vous pouvez donc vous diriger vers notre [site web](https://democraft.fr) et jeter un œil à notre [wiki](https://wiki.democraft.fr). Ou si vous préférez, suivez ce guide spécialement créé pour la CubedCon, plus simple, plus rapide et plus efficace !
 {% endhint %}
 
-On this website, you will be able to take a look about what we are, what we do, and have acess to somes ressources about us.
+Sur ce site Web, vous allez pouvoir en savoir plus sur notre serveur, son concept, ses modes de jeux, ses "open worlds", appelés aussi *planètes*, avec un petit tour sur nos valeurs et quelques ressources à propos de notre serveur :D
