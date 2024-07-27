@@ -5,7 +5,7 @@ Hi @everyone ! We are **DEMOCRAFT**, a minecraft server which allow both java an
 {% hint style="danger" %}
 **DEMOCRAFT IS A FRENCH MINECRAFT SERVER**
 
-This means that the majority of the server is translated in french. You can still play from the US without a gigantic ping, but prepare Google translate and bringue your baguette 🥖
+This means that the majority of the server is translated in french. You can still play from the US without a gigantic ping, but prepare Google translate and bring your baguette 🥖
 {% endhint %}
 
 On this website, you will be able to take a look about what we are, what we do, and have acess to somes ressources about us.
