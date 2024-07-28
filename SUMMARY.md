@@ -9,6 +9,7 @@
 * [🧭 Our Open-Worlds](about-us/worlds.md)
 * [🧡 Our Values](about-us/values)
 ## 📚 Ressources
+* [🎟 How To Play](ressources/how-to-play.md)
 
 ## 🔗 Links
 * [🌐 Our Website](https://democraft.fr)
