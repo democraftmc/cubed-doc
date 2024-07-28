@@ -9,3 +9,9 @@ This means that the majority of the server is translated in french. You can stil
 {% endhint %}
 
 On this website, you will be able to take a look about what we are, what we do, and have acess to somes ressources about us.
+
+## 🌐 Navigate throught the website
+
+Use the hamburger 🍔 button to show all the pages aviable on this wiki. If needed, you can search for something in the doc or change your language - for now you can only switch to French.
+
+![Navigation bar on Mobile and the humberger button](tab.jpg)
