@@ -1,3 +1,8 @@
+---
+description: >-
+  DEMOCRAFT à de très fortes valeurs que nous espérons partager avec d'autres serveurs
+---
+
 # 🧡 Nos Valeurs
 
 Aujourd'hui, il est compliqué pour les serveurs Minecraft français d'être économiquement indépendants. Donc, au lieu de faire les hommes d'affaires, nous avons décidé de faire quelque chose de amusant, à la fois pour les joueurs et pour l'équipe du serveur.
