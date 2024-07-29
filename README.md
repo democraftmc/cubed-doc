@@ -10,3 +10,6 @@ Si vous voulez directement jouer, vous pouvez donc vous diriger vers notre [site
 {% endhint %}
 
 Sur ce site Web, vous allez pouvoir en savoir plus sur notre serveur, son concept, ses modes de jeux, ses "open worlds", appelés aussi *planètes*, avec un petit tour sur nos valeurs et quelques ressources à propos de notre serveur :D
+
+Vous pouvez utiliser le **boutton hamburger** 🍔 pour naviguer sur le site et changer de langue - pour l'instant uniquement vers l'anglais.
+![Le menu sur mobile, avec le bouton hamburger](tab.jpg)

@@ -2,10 +2,18 @@
 
 * [🏠 Bienvenue !](README.md)
 
-## ℹ️ À propos de nous
+## ℹ️ About Us
 
-* [📦 Notre Concept](about-us/concept.md)
+* [📦 Notre Concepte](about-us/concept.md)
 * [🎮 Nos Modes de Jeux](about-us/games.md)
-* [🧭 Les "Planètes"](about-us/worlds.md)
+* [🧭 Nos Planètes](about-us/worlds.md)
 * [🧡 Nos Valeurs](about-us/values)
 ## 📚 Ressources
+* [🎟 Comment Jouer](ressources/how-to-play.md)
+
+## 🔗 Links
+* [🌐 Notre site Web](https://democraft.fr)
+* [💬 Serveur Discord](https://dsc.gg/democraft)
+* [📖 Wiki Officiel](https://wiki.democraft.fr)
+* [📺 Twitch](https://twitch.tv/fdreamcloud)
+* [📸 l'Instagram Vraiment Actif](https://instagram.com/democraftmc)
