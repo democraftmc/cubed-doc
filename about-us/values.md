@@ -1,3 +1,7 @@
+---
+description: >-
+  DEMOCRAFT has strong values that we hope to share with other minecraft servers.
+---
 # 🧡 Our Values
 
 Today, it's complicated for french minecraft servers to be economically independent. So, instead of doing the bug business men, we decided to make something fun, both for the players and the staff team
@@ -14,10 +18,3 @@ Today, it's complicated for french minecraft servers to be economically independ
 ###### 💜 A **HUGE** thanks to **Vaati** which give us an incredible infrastructure that we could'nt dream of.
 
 If you read the doc so far, just take a minute to thanks vaati on our discord or while our panel <3
-
-```md
----
-description: >-
-  DEMOCRAFT has strong values that we hope to share with other minecraft servers.
----
-```
