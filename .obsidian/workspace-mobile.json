@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about-us/values.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "about-us/values.md",
+            "file": "SUMMARY.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "about-us/values.md",
+            "file": "SUMMARY.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "about-us/values.md"
+            "file": "SUMMARY.md"
           }
         }
       }
@@ -158,11 +158,11 @@
   },
   "active": "8690518a1d7c8bc5",
   "lastOpenFiles": [
+    "README.md",
+    "about-us/values.md",
     "about-us/concept.md",
     "about-us/games.md",
-    "about-us/values.md",
     "about-us/worlds.md",
-    "README.md",
     "ressources/lobby.md",
     "ressources/how-to-play.md",
     "SUMMARY.md",

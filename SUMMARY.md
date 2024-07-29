@@ -7,7 +7,7 @@
 * [📦 Notre Concepte](about-us/concept.md)
 * [🎮 Nos Modes de Jeux](about-us/games.md)
 * [🧭 Nos Planètes](about-us/worlds.md)
-* [🧡 Nos Valeurs](about-us/values)
+* [🧡 Nos Valeurs](about-us/values.md)
 ## 📚 Ressources
 * [🎟 Comment Jouer](ressources/how-to-play.md)
 * [🏙 Le Lobby](ressources/lobby.md)
