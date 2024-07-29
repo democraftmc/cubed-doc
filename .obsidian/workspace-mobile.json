@@ -61,9 +61,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about-us/values.md",
+                "file": "about-us/concept.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -134,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "about-us/values.md",
+            "file": "about-us/concept.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "about-us/values.md",
+            "file": "about-us/concept.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "about-us/values.md"
+            "file": "about-us/concept.md"
           }
         }
       }
@@ -182,14 +182,14 @@
   },
   "active": "a144a650f276de80",
   "lastOpenFiles": [
-    "README.md",
-    "about-us/concept.md",
     "about-us/worlds.md",
     "ressources/how-to-play.md",
     "about-us/values.md",
+    "SUMMARY.md",
+    "README.md",
+    "about-us/concept.md",
     "CONTRIBUTE.md",
     "LICENSE.md",
-    "SUMMARY.md",
     "about-us/games.md",
     "ressources",
     "().md",
