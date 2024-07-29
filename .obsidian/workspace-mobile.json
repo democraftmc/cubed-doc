@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "9fe3a9c454bea82e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about-us/values.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a144a650f276de80",
             "type": "leaf",
             "state": {
@@ -73,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about-us/values.md",
+                "file": "about-us/values 1.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "about-us/values.md",
+            "file": "about-us/values 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "about-us/values.md",
+            "file": "about-us/values 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "about-us/values.md"
+            "file": "about-us/values 1.md"
           }
         }
       }
@@ -194,14 +182,14 @@
   },
   "active": "c1b4180b2a266b45",
   "lastOpenFiles": [
-    "about-us/values 1.md",
+    "SUMMARY.md",
     "about-us/values.md",
+    "README.md",
+    "about-us/values 1.md",
     "about-us/concept.md",
     "about-us/games.md",
     "about-us/worlds.md",
-    "SUMMARY.md",
     "LICENSE.md",
-    "README.md",
     "ressources/lobby.md",
     "ressources/how-to-play.md",
     "images/4.jpeg",
