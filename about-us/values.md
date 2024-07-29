@@ -13,8 +13,9 @@ Today, it's complicated for french minecraft servers to be economically independ
 
 **DEMOCRAFT promote creation, by younth, for younth**. Video games in general and esspecially Minecraft are incredible sandboxes for younth to create. 
 
+
 ---
-#
----
+
 ###### 💜 A **HUGE** thanks to **Vaati** which give us an incredible infrastructure that we could'nt dream of.
+
 If you read the doc so far, just take a minute to thanks vaati on our discord or while our panel <3
