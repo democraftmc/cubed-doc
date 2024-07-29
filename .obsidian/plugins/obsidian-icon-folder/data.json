@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiImage",
+      "LiImagePlus",
       "LiGitMerge",
       "LiTable2",
-      "LiInfo",
-      "LiFolderSearch",
-      "LiFolderSearch2"
+      "LiInfo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,6 +37,7 @@
   "SUMMARY.md": "LiLayoutList",
   "ressources": "LiFolderSearch",
   "about-us": "LiInfo",
-  "tab.jpg": "LiTable2",
-  "CONTRIBUTE.md": "LiGitMerge"
+  "CONTRIBUTE.md": "LiGitMerge",
+  "images": "LiImage",
+  "images/tab.jpg": "LiTable2"
 }

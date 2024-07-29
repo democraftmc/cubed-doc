@@ -10,6 +10,7 @@
 * [🧡 Nos Valeurs](about-us/values)
 ## 📚 Ressources
 * [🎟 Comment Jouer](ressources/how-to-play.md)
+* [🏙 Le Lobby](ressources/lobby.md)
 
 ## 🔗 Links
 * [🌐 Notre site Web](https://democraft.fr)
