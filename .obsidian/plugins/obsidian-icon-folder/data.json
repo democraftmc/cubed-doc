@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiImage",
       "LiFileLock2",
       "LiGitMerge",
       "LiTable2",
-      "LiInfo",
-      "LiFolderSearch"
+      "LiInfo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,7 +37,8 @@
   "SUMMARY.md": "LiLayoutList",
   "ressources": "LiFolderSearch",
   "about-us": "LiInfo",
-  "tab.jpg": "LiTable2",
   "CONTRIBUTE.md": "LiGitMerge",
-  "LICENSE.md": "LiFileLock2"
+  "LICENSE.md": "LiFileLock2",
+  "images/tab.jpg": "LiTable2",
+  "images": "LiImage"
 }

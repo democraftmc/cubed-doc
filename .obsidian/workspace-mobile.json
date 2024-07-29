@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1b4180b2a266b45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about-us/values.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "about-us/concept.md",
+            "file": "about-us/values.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "about-us/concept.md",
+            "file": "about-us/values.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "about-us/concept.md"
+            "file": "about-us/values.md"
           }
         }
       }
@@ -180,14 +192,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a144a650f276de80",
+  "active": "c1b4180b2a266b45",
   "lastOpenFiles": [
-    "about-us/worlds.md",
     "ressources/how-to-play.md",
-    "about-us/values.md",
-    "SUMMARY.md",
+    "ressources/lobby.md",
     "README.md",
+    "images/4.jpeg",
+    "about-us/worlds.md",
+    "images/7.jpeg",
+    "images",
+    "SUMMARY.md",
     "about-us/concept.md",
+    "about-us/values.md",
     "CONTRIBUTE.md",
     "LICENSE.md",
     "about-us/games.md",
@@ -209,9 +225,7 @@
     "docs/docs/img/logo.png",
     "docs/docs/img/logo.ico",
     "docs/docs/img/logo-modified.png",
-    "docs/docs/img/kitpvp.png",
     "docs/docs/img/index.md",
-    "docs/docs/img/game-icon.png",
     "docs/docs/img/Readme.txt",
     "docs/docs/fr/uhc.md",
     "docs/docs/fr/smp.md",
@@ -223,10 +237,7 @@
     "docs/docs/en/uhc.md",
     "docs/docs/en/smp.md",
     "docs/docs/en/skywars.md",
-    "docs/docs/en/phone.md",
-    "docs/docs/en/murder.md",
     "docs/docs/CNAME",
-    "docs/Makefile",
-    "docs/CNAME"
+    "docs/Makefile"
   ]
 }
