@@ -1,6 +1,8 @@
 ---
-description: "**DEMOCRAFT** has strong values that we hope to share with other minecraft servers."
+description: >-
+  DEMOCRAFT has strong values that we hope to share with other minecraft servers.
 ---
+
 # 🧡 Our Values
 
 Today, it's complicated for french minecraft servers to be economically independent. So, instead of doing the bug business men, we decided to make something fun, both for the players and the staff team
