@@ -1,5 +1,3 @@
-
-
 # 🧡 Our Values
 
 Today, it's complicated for french minecraft servers to be economically independent. So, instead of doing the bug business men, we decided to make something fun, both for the players and the staff team
@@ -11,8 +9,6 @@ Today, it's complicated for french minecraft servers to be economically independ
 **DEMOCRAFT is transparent**. Why hiding you things as we do nothing with them ? We are the first association with proprer and clean [legal documents](https://txt.dreamclouds.fr/DEMOCRAFT/) that anybody can read, even younth like you and us
 
 **DEMOCRAFT promote creation, by younth, for younth**. Video games in general and esspecially Minecraft are incredible sandboxes for younth to create. 
-
----
 
 ### 💜 A **HUGE** thanks to **Vaati** which give us an incredible infrastructure that we could'nt dream of.
 
