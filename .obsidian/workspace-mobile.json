@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ressources/how-to-play.md",
+                "file": "SUMMARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fe3a9c454bea82e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about-us/values.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a144a650f276de80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about-us/values.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ressources/how-to-play.md",
+            "file": "about-us/values.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ressources/how-to-play.md",
+            "file": "about-us/values.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ressources/how-to-play.md"
+            "file": "about-us/values.md"
           }
         }
       }
@@ -156,16 +180,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5c7d7088e5fd51f",
+  "active": "2cd55def96e20d99",
   "lastOpenFiles": [
-    "SUMMARY.md",
-    "README.md",
+    "about-us/concept.md",
+    "about-us/worlds.md",
     "ressources/how-to-play.md",
+    "about-us/values.md",
+    "CONTRIBUTE.md",
+    "README.md",
+    "LICENSE.md",
+    "SUMMARY.md",
     "about-us/games.md",
     "ressources",
-    "about-us/worlds.md",
-    "about-us/values.md",
-    "about-us/concept.md",
     "().md",
     "about-us",
     "/SUMMARY.md",
@@ -199,8 +225,6 @@
     "docs/docs/en/skywars.md",
     "docs/docs/en/phone.md",
     "docs/docs/en/murder.md",
-    "docs/docs/en/kitpvp.md",
-    "docs/docs/en/index.md",
     "docs/docs/CNAME",
     "docs/Makefile",
     "docs/CNAME"
