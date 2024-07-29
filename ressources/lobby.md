@@ -1,12 +1,12 @@
-# 🏙 Le lobby
+# 🏙 Le Lobby
 
 ## 📱Le DEMOPHONE
 This is the master tool of every DEMOCRAFT player. With this little guy, you can travel across the server, create groups, have cool cosmetics, and more informations about the server
 
 {% hint style="info" %}
-**The DEMOPHONE was so cool...**
+**Le DEMOPHONE était tellement cool...**
 
-...That we decided to recode it ! Pur next DEMOPHONE will be aviable on **any** server, <mark style="color: red;">included the planets</mark>, and will allow you to do even better stuff! See the devlog channel on our discors for some spoils!
+...Qu'on a décidé de le recoder ! Le nouveau DEMOPHONE sera disponible sur tout les serveur, <mark style="color: red;">même les planète</mark>, et vous permettera de faire encore plus fe choses ! Gardez un œil sur le salon devlog de notre discord pour plus d'informations !
 {% endhint %}
 ## 👨 Les PNJs
 You have 8 NPC - fake players - around you when you spawn. These will teleport you to our different minigames according to their name. Bedwars go to bedwars, SMP to the SMP planet, on and on...

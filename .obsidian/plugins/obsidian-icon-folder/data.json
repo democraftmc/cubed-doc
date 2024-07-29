@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlarmPlus",
+      "LiBuilding2",
+      "LiFan",
       "LiImage",
-      "LiImagePlus",
-      "LiGitMerge",
-      "LiTable2",
-      "LiInfo"
+      "LiImagePlus"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,13 @@
   "about-us": "LiInfo",
   "CONTRIBUTE.md": "LiGitMerge",
   "images": "LiImage",
-  "images/tab.jpg": "LiTable2"
+  "images/tab.jpg": "LiTable2",
+  "images/logo.png": "LiFan",
+  "images/7.jpeg": "LiBuilding2",
+  "images/6.jpeg": "LiBuilding2",
+  "images/5.jpeg": "LiBuilding2",
+  "images/4.jpeg": "LiBuilding2",
+  "images/3.jpeg": "LiBuilding2",
+  "images/2.jpeg": "LiBuilding2",
+  "images/1.jpeg": "LiBuilding2"
 }
