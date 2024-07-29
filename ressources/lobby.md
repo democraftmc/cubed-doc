@@ -3,13 +3,15 @@
 ## 📱The DEMOPHONE
 This is the master tool of every DEMOCRAFT player. With this little guy, you can travel across the server, create groups, have cool cosmetics, and more informations about the server
 
-{% hint info" %}
+{% hint style="info" %}
 **The DEMOPHONE was so cool...**
 
 ...That we decided to recode it ! Pur next DEMOPHONE will be aviable on **any** server, <mark style="color: red;">included the planets</mark>, and will allow you to do even better stuff! See the devlog channel on our discors for some spoils!
 {% endhint %}
+
 ## 👨 The NPC's
 You have 8 NPC - fake players - around you when you spawn. These will teleport you to our different minigames according to their name. Bedwars go to bedwars, SMP to the SMP planet, on and on...
+
 ## 🧱 About the Builds
 
 ![The "main" Island, with the staff building containing the staff offices and the NPC's plaza.](/images/1.jpeg)

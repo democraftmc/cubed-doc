@@ -75,7 +75,7 @@
               "state": {
                 "file": "about-us/values.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -194,19 +194,20 @@
   },
   "active": "c1b4180b2a266b45",
   "lastOpenFiles": [
-    "ressources/how-to-play.md",
-    "ressources/lobby.md",
-    "README.md",
-    "images/4.jpeg",
+    "about-us/values 1.md",
+    "about-us/values.md",
+    "about-us/concept.md",
+    "about-us/games.md",
     "about-us/worlds.md",
+    "SUMMARY.md",
+    "LICENSE.md",
+    "README.md",
+    "ressources/lobby.md",
+    "ressources/how-to-play.md",
+    "images/4.jpeg",
     "images/7.jpeg",
     "images",
-    "SUMMARY.md",
-    "about-us/concept.md",
-    "about-us/values.md",
     "CONTRIBUTE.md",
-    "LICENSE.md",
-    "about-us/games.md",
     "ressources",
     "().md",
     "about-us",
