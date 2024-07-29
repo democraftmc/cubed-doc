@@ -1,3 +1,7 @@
+---
+icon: 🎮
+---
+
 # 🎮 Our Minigames
 
 ## 🛏 Bedwars

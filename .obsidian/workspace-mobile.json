@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about-us/values.md",
+                "file": "ressources/how-to-play.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "about-us/values.md",
+            "file": "ressources/how-to-play.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "about-us/values.md",
+            "file": "ressources/how-to-play.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "about-us/values.md"
+            "file": "ressources/how-to-play.md"
           }
         }
       }
@@ -182,15 +182,15 @@
   },
   "active": "c1b4180b2a266b45",
   "lastOpenFiles": [
-    "SUMMARY.md",
-    "README.md",
-    "about-us/values.md",
-    "about-us/concept.md",
-    "about-us/games.md",
-    "about-us/worlds.md",
-    "LICENSE.md",
     "ressources/lobby.md",
     "ressources/how-to-play.md",
+    "about-us/worlds.md",
+    "about-us/values.md",
+    "about-us/games.md",
+    "about-us/concept.md",
+    "SUMMARY.md",
+    "README.md",
+    "LICENSE.md",
     "images/4.jpeg",
     "images/7.jpeg",
     "images",

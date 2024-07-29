@@ -13,7 +13,7 @@ You fin naly decided to join **DEMOCRAFT** ! I personnaly think that you may tak
 {% hint style="warning" %}
 **On console, and additional tweak is required**
 
-You cannot natively add custom server to console edition of Minecraft. You have to edit your DNS settings to allow it. This is documented in OEKZBBDKZ, but keep in mind that it's writed in french
+You cannot natively add custom server to console edition of Minecraft. You have to edit your DNS settings to allow it. This is documented in [our wiki](https://wiki.democraft.fr/accueil/connexion/bedrock-edition), but keep in mind that it's writed in french
 {% endhint %}
 
 1. Click on Play, then on Servers

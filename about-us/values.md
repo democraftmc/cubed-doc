@@ -1,6 +1,6 @@
 ---
-description: >-
-  DEMOCRAFT has strong values that we hope to share with other minecraft servers.
+description: DEMOCRAFT has strong values that we hope to share with other minecraft servers.
+icon: 🧡
 ---
 # 🧡 Our Values
 

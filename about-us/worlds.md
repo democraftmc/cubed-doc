@@ -1,3 +1,7 @@
+---
+icon: 🧭
+---
+
 # 🧭 Our Open-World
 We quickly discovered that players get bored while playing minigames alone - which is a bit logic due to how they work - and so leave the server as they have nothing else to do on it. That's why we created the Open World(s), also called planets, where player can play alone *or with friend* on a more vanilla server with survival, buildings and crafting.
 ## 🪴 Survival (SMP)
