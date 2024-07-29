@@ -7,7 +7,7 @@
 * [📦 Our Concept](about-us/concept.md)
 * [🎮 Our Minigames](about-us/games.md)
 * [🧭 Our Open-Worlds](about-us/worlds.md)
-* [🧡 Our Values](about-us/values)
+* [🧡 Our Values](about-us/values.md)
 ## 📚 Ressources
 * [🎟 How To Play](ressources/how-to-play.md)
 * [🏙 How the Lobby work](ressources/lobby.md)
