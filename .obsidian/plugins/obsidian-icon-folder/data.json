@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHome",
+      "LiBookOpenText",
       "🧭",
       "🧡",
       "🎮",
@@ -13,9 +15,7 @@
       "LiFan",
       "LiBuilding2",
       "LiImage",
-      "LiFileLock2",
-      "LiGitMerge",
-      "LiTable2"
+      "LiFileLock2"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -26,14 +26,14 @@
       "left": 0
     },
     "iconInTabsEnabled": true,
-    "iconInTitleEnabled": true,
+    "iconInTitleEnabled": false,
     "iconInTitlePosition": "inline",
-    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true,
-    "iconsInLinksEnabled": true,
+    "iconsInNotesEnabled": false,
+    "iconsInLinksEnabled": false,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
@@ -65,5 +65,7 @@
   },
   "about-us/worlds.md": {
     "iconName": "🧭"
-  }
+  },
+  "PANEL.md": "LiBookOpenText",
+  "BOOTH.md": "LiHome"
 }

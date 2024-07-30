@@ -66,9 +66,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1cc01622d7474e21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOTH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afcc7ca3d1fe121e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOTH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ressources/how-to-play.md",
+            "file": "BOOTH.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ressources/how-to-play.md",
+            "file": "BOOTH.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +187,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ressources/how-to-play.md"
+            "file": "BOOTH.md"
           }
         }
       }
@@ -180,21 +204,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1b4180b2a266b45",
+  "active": "afcc7ca3d1fe121e",
   "lastOpenFiles": [
-    "ressources/lobby.md",
+    "PANEL.md",
+    "SUMMARY.md",
+    "BOOTH.md",
+    "README.md",
+    "CONTRIBUTE.md",
+    "LICENSE.md",
+    "Untitled",
     "ressources/how-to-play.md",
+    "ressources/lobby.md",
     "about-us/worlds.md",
     "about-us/values.md",
     "about-us/games.md",
     "about-us/concept.md",
-    "SUMMARY.md",
-    "README.md",
-    "LICENSE.md",
     "images/4.jpeg",
     "images/7.jpeg",
     "images",
-    "CONTRIBUTE.md",
     "ressources",
     "().md",
     "about-us",
@@ -224,8 +251,6 @@
     "docs/docs/fr/bedwars.md",
     "docs/docs/en/uhc.md",
     "docs/docs/en/smp.md",
-    "docs/docs/en/skywars.md",
-    "docs/docs/CNAME",
-    "docs/Makefile"
+    "docs/docs/CNAME"
   ]
 }

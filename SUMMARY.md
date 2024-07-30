@@ -1,6 +1,8 @@
 # Table of contents
 
-* [🏠 Welcome!](README.md)
+* [👋 Welcome!](README.md)
+* [🏡 Our Booth](BOOTH.md)
+* [🎭 Our Panel](PANEL.md)
 
 ## ℹ️ About Us
 
