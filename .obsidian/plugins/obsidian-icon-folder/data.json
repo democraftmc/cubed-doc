@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGitCompareArrows",
+      "LiLayoutList",
+      "LiSpeaker",
+      "LiScale",
+      "LiAlbum",
+      "✨️",
+      "DrLogo",
+      "LiHeadingGlyph",
       "LiHome",
-      "LiBookOpenText",
-      "🧭",
-      "🧡",
-      "🎮",
-      "📦",
-      "LiFan",
-      "LiBuilding2",
-      "LiImage",
-      "LiFileLock2"
+      "LiBookOpenText"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -28,7 +28,7 @@
     "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInTitlePosition": "inline",
-    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterEnabled": true,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsBackgroundCheckEnabled": false,
@@ -38,12 +38,8 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "README.md": "LiAlbum",
-  "SUMMARY.md": "LiLayoutList",
   "ressources": "LiFolderSearch",
   "about-us": "LiInfo",
-  "CONTRIBUTE.md": "LiGitMerge",
-  "LICENSE.md": "LiFileLock2",
   "images/tab.jpg": "LiTable2",
   "images": "LiImage",
   "images/1.jpeg": "LiBuilding2",
@@ -54,18 +50,16 @@
   "images/6.jpeg": "LiBuilding2",
   "images/7.jpeg": "LiBuilding2",
   "images/logo.png": "LiFan",
-  "about-us/concept.md": {
-    "iconName": "📦"
-  },
-  "about-us/games.md": {
-    "iconName": "🎮"
-  },
-  "about-us/values.md": {
-    "iconName": "🧡"
-  },
-  "about-us/worlds.md": {
-    "iconName": "🧭"
-  },
-  "PANEL.md": "LiBookOpenText",
+  "about-us/concept.md": "📦",
+  "about-us/games.md": "🎮",
+  "about-us/values.md": "🧡",
+  "about-us/worlds.md": "🧭",
+  "images/demo-studio.png": "LiHeadingGlyph",
+  "about-us/organization.md": "✨️",
+  "README.md": "LiAlbum",
+  "LICENSE.md": "LiScale",
+  "PANEL.md": "LiSpeaker",
+  "SUMMARY.md": "LiLayoutList",
+  "CONTRIBUTE.md": "LiGitCompareArrows",
   "BOOTH.md": "LiHome"
 }

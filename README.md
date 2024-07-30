@@ -15,5 +15,3 @@ On this website, you will be able to take a look about what we are, what we do, 
 Use the **hamburger** 🍔 button to show all the pages aviable on this wiki. If needed, you can search for something in the doc or change your language - for now you can only switch to French.
 
 ![Navigation bar on Mobile and the humberger button](images/tab.jpg)
-
-:Cust
