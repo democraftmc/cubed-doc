@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "CONTRIBUTE.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,6 +144,18 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "0debdf563e5b1c0c",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -158,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "CONTRIBUTE.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "CONTRIBUTE.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -187,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "SUMMARY.md"
+            "file": "CONTRIBUTE.md"
           }
         }
       }
@@ -201,26 +213,29 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false
     }
   },
   "active": "afcc7ca3d1fe121e",
   "lastOpenFiles": [
-    "LICENSE.md",
-    "BOOTH.md",
+    "SUMMARY.md",
+    "README.md",
     "PANEL.md",
-    "CONTRIBUTE.md",
+    "about-us/worlds.md",
+    "ressources/how-to-play.md",
+    "about-us/concept.md",
+    "about-us/values.md",
     "about-us/organization.md",
     "about-us/games.md",
-    "images/demo-studio.png",
-    "about-us/worlds.md",
-    "README.md",
-    "SUMMARY.md",
-    "about-us/concept.md",
-    "Untitled",
-    "ressources/how-to-play.md",
     "ressources/lobby.md",
-    "about-us/values.md",
+    "BOOTH.md",
+    "CONTRIBUTE.md",
+    "LICENSE.md",
+    "images/demo-studio.png",
+    "Untitled",
     "images/4.jpeg",
     "images/7.jpeg",
     "images",

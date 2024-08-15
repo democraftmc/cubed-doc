@@ -12,6 +12,5 @@ Both with 1.8 and 1.20 PVP, fight against your friends with different kits to se
 One Map. One Kit. Plenty of players to kill and one kill streak to keep.
 ## 🪅 Arcade
 The famous arcade minigames such as Quake, TntTag, Porphunt...
-
 ## 🪓 UHC
 The clasic battle royale on minecraft, *always better than fortnite*.

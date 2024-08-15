@@ -17,6 +17,6 @@ You cannot natively add custom server to console edition of Minecraft. You have 
 {% endhint %}
 
 1. Click on Play, then on Servers
-2. Go to the bottom of the server list and click on add a server. As the server adress, use <mark style="color: red;">bedrock.democraft.fr</mark>. For the server port, we use the default `19132` port. Like Java, you can choose any namr for the server.
+2. Go to the bottom of the server list and click on add a server. As the server adress, use <mark style="color: red;">bedrock.democraft.fr</mark>. For the server port, we use the default `19132` port. Like Java, you can choose any name for the server.
 3. Click on continue. You may asked if you are realy sure about playing a server not manager by mojang, but you are, so say yes. Then, you can click on the server and click on the `connect` button. Accept the ressource pack, wait a bit and you are in!
 
