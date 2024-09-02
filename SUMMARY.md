@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [🏠 Welcome!](README.md)
 * [🏡 Our Booth](BOOTH.md)
 * [🎭 Our Panel](PANEL.md)
 
@@ -10,13 +10,16 @@
 * [🎮 Our Minigames](about-us/games.md)
 * [🧭 Our Open-Worlds](about-us/worlds.md)
 * [🧡 Our Values](about-us/values.md)
+
 ## 📚 Ressources
-* [🎟 How To Play](ressources/how-to-play.md)
-* [🏙 How the Lobby work](ressources/lobby.md)
+
+* [🎟️ How To Play](ressources/how-to-play.md)
+* [🏙️ How the Lobby work](ressources/lobby.md)
 
 ## 🔗 Links
+
 * [🌐 Our Website](https://democraft.fr)
 * [💬 Discord Server](https://dsc.gg/democraft)
-* [📖 Official Wiki [FR]](https://wiki.democraft.fr)
+* [📖 Official Wiki \[FR\]](https://wiki.democraft.fr)
 * [📺 Livestreams](https://twitch.tv/fdreamcloud)
 * [📸 Really Active Instagram](https://instagram.com/democraftmc)
