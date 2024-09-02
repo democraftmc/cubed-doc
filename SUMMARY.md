@@ -15,6 +15,7 @@
 
 * [🎟️ How To Play](ressources/how-to-play.md)
 * [🏙️ How the Lobby work](ressources/lobby.md)
+* [🎬 Funaradio](ressources/funaradio.md)
 
 ## 🔗 Links
 
