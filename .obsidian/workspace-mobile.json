@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CONTRIBUTE.md",
+                "file": "BOOTH.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CONTRIBUTE.md",
+            "file": "BOOTH.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CONTRIBUTE.md",
+            "file": "BOOTH.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CONTRIBUTE.md"
+            "file": "BOOTH.md"
           }
         }
       }
@@ -221,8 +221,16 @@
   },
   "active": "afcc7ca3d1fe121e",
   "lastOpenFiles": [
-    "SUMMARY.md",
+    "ressources/funaradio.md",
+    "BOOTH.md",
+    "/ressources/funaradio.md",
+    "/SUMMARY.md",
+    "/README.md",
+    "/PANEL.md",
+    "/BOOTH.md",
     "README.md",
+    "CONTRIBUTE.md",
+    "SUMMARY.md",
     "PANEL.md",
     "about-us/worlds.md",
     "ressources/how-to-play.md",
@@ -231,8 +239,6 @@
     "about-us/organization.md",
     "about-us/games.md",
     "ressources/lobby.md",
-    "BOOTH.md",
-    "CONTRIBUTE.md",
     "LICENSE.md",
     "images/demo-studio.png",
     "Untitled",
@@ -242,8 +248,6 @@
     "ressources",
     "().md",
     "about-us",
-    "/SUMMARY.md",
-    "/README.md",
     "sample.png",
     "docs/requirements.txt",
     "docs/mkdocs.yml",
@@ -262,9 +266,6 @@
     "docs/docs/fr/smp.md",
     "docs/docs/fr/skywars.md",
     "docs/docs/fr/murder.md",
-    "docs/docs/fr/kitpvp.md",
-    "docs/docs/fr/index.md",
-    "docs/docs/fr/bedwars.md",
     "docs/docs/CNAME"
   ]
 }
